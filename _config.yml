@@ -1,7 +1,7 @@
 # Site settings
 title:       Andrew Dean Davis
 email:       andrew@adavis46.io
-baseurl:     "/blog"
+baseurl:     "/blog/"
 url:         "http://adavis46.github.io/"
 date_format: "%b %-d, %Y"
 
