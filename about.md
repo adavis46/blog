@@ -4,17 +4,7 @@ title: About Me
 permalink: /about/
 tags: about
 ---
+![Andrew Dean Davis](images/me.jpg)
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I am an instructional designer and technical writing teacher at the University of Mississippi. I spend a lot of time thinking about how to make information more useful and how to help students create new knowledge. My interests include technical communication, usability and design, professional writing, composition, writing center studies, writing program administration, content management, online course development, hybrid composition instruction, network and activity theory for organizations, and adaptive/personalized learning.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
