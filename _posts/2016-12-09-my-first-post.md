@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      This is my first post.
+title:      Hello work! 
 date:       2016-12-09 13:41:00
-summary:    This is an empty post try out the Jekyll platform. 
+summary:    This is the first post on my new blog/personal website. 
 categories: new, design, andrew
 ---
 
-This is an empty post! 
+This is the first post on my new blog/personal website. Pardon the dust. 
