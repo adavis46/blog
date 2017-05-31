@@ -4,6 +4,8 @@ title: C.V.
 permalink: /cv/
 tags: cv
 ---
+[Download](images/DavisA-CV_2017.odt) my C.V. in a printable format. 
+
 ## EDUCATION
 
 * Completed Coursework for Ph.D. in English. Georgia State University, 2011
@@ -238,7 +240,3 @@ The Conversational Model of Tutoring: Talking As Teaching. Panelist. Georgia Tut
 Historical Development of Improvisation in Writing Center Pedagogy and Practice. Panelist. Southeastern Writing Centers Association Conference. February 2011. Tuscaloosa, AL. Friday, 2:45 Session.
 
 Writing Center Pedagogy in the Classroom: Secondary and Post-Secondary Perspectives on Student Success. Panelist. Southeastern Writing Centers Association Conference. Feburary 2009. Greensboro, NC. Friday, 9:00 Session.
-
------
-[Download](images/DavisA-CV_2017.odt) my C.V. in a printable format. 
-
