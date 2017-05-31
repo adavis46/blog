@@ -63,7 +63,7 @@ August 2010-2011.
 - English 221: American Literature 1
 - English 222: American Literature 2
 
-**Adjunct Instructor**
+### Adjunct Instructor
 Atlanta Technical College: Academic and Learning Support Services Division. 
 July 2009-March 2010.
 
