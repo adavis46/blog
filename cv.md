@@ -14,7 +14,7 @@ tags: cv
 
 ## CURRENT POSITION
 
-### Instructional Design and Training Specialist. 
+### Instructional Design and Training Specialist
 University of Mississippi: Department of Writing and Rhetoric
 - Facilitate the department's adoption and implementation of an ePortfolio program
 - Assist in the development of a multimodal curriculum
