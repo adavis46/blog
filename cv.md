@@ -206,6 +206,7 @@ Planning Committee Member. **Southeastern Writing Centers Association (SWCA) Sta
 
 ## PUBLICATIONS
 Karen Forgette, Chip Dunkin, and Andrew Davis. (2014). [The Multimodal Remix: One Solution to the Double-Audience Dilemma in Service-Learning Composition.](https://bwe.ccny.cuny.edu/Forgette%20et%20al.%20Multimodal%20Remix.html) Basic Writing Online 13(1)
+
 Andrew Davis. (2012). [Review of Remixing Composition: A History Of Multimodal Writing Pedagogy by Jason Palmeri.](http://www.uc.edu/content/dam/uc/journals/composition-studies/docs/bookreviews/40-2/Davis.pdf) Composition Studies 40(2)
 
 ## PROFESSIONAL DEVELOPMENT
