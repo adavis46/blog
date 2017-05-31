@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design
+title: Dev
 permalink: /dev/
 tags: dev
 ---
