@@ -148,22 +148,22 @@ First Arguments: 2nd Edition . 2008. Georgia State University Department of Engl
 - Participated in regular editorial board meetings and met set publisher deadlines.
 
 ## DOCUMENT AND WEB DESIGN PROJECTS
-**Designer and Developer. W&R Document Library and File Archive.**
-**Web Content Manager, Independent Writing Departments and Programs Association(IWDPA).**
-**Web Content Manager, Department of Writing and Rhetoric Website.** 
+Designer and Developer. W&R Document Library and File Archive.
+Web Content Manager, Independent Writing Departments and Programs Association(IWDPA).
+Web Content Manager, Department of Writing and Rhetoric Website.
 - Oversaw transition of the site to WordPress CMS
 - Maintain site content areas for faculty, administrators, and students.
 
-**Web Content Manager, Transitioning to College Writing Symposium.** 
-**Webmaster, The Writing Studio at Georgia State.**
+Web Content Manager, Transitioning to College Writing Symposium.
+Webmaster, The Writing Studio at Georgia State.
 - Oversaw transition of the site to RedDot CMS platform
 - Integrated Write/Chat interface more closely to main homepage
 
-**Document Designer, The Writing Studio at Georgia State**
+Document Designer, The Writing Studio at Georgia State
 - Designed flyers and handouts for incoming students.
 - Designed signage for Writing Studio front door
 
-**Webmaster, Graduate English Association** 
+Webmaster, Graduate English Association
 
 ## ACADEMIC SERVICE
 ### Invited Talks
@@ -181,7 +181,7 @@ First Arguments: 2nd Edition . 2008. Georgia State University Department of Engl
 ### Committee Memberships
 Committee Member. **Assessment Committee**, University of Mississippi Department of Writing and Rhetoric, July 2013-Present. Plans and implements assessment programs for CWR courses.
 
-Planning Committee Member. **Southeastern Writing Centers Association (SWCA) 2017 Annual Conference.** December 2015 � Present. Assists in the planning and execution of a large regional conference for writing center professionals.
+Planning Committee Member. **Southeastern Writing Centers Association (SWCA) 2017 Annual Conference.** December 2015  Present. Assists in the planning and execution of a large regional conference for writing center professionals.
 
 Committee Member. **Minor in Professional Writing Committee,** University of Mississippi Department of Writing and Rhetoric, July 2015-Present. Plans the future direction of the minor, creates application materials, promotes the courses, advises our students.
 
@@ -205,8 +205,8 @@ Planning Committee Member. **Southeastern Writing Centers Association (SWCA) Sta
 **Finance, Budget and Accounting Officer.** New Voices International Interdisciplinary Graduate Student Conference, 2007. Established New Voices Agency account to hold funds between fiscal years
 
 ## PUBLICATIONS
-Karen Forgette, Chip Dunkin, and Andrew Davis. (2014). The Multimodal Remix: One Solution to the Double-Audience Dilemma in Service-Learning Composition. Basic Writing Online 13(1)
-Andrew Davis. (2012). Review of Remixing Composition: A History Of Multimodal Writing Pedagogy by Jason Palmeri. 40(2)
+Karen Forgette, Chip Dunkin, and Andrew Davis. (2014). [The Multimodal Remix: One Solution to the Double-Audience Dilemma in Service-Learning Composition.](https://bwe.ccny.cuny.edu/Forgette%20et%20al.%20Multimodal%20Remix.html) Basic Writing Online 13(1)
+Andrew Davis. (2012). [Review of Remixing Composition: A History Of Multimodal Writing Pedagogy by Jason Palmeri.](http://www.uc.edu/content/dam/uc/journals/composition-studies/docs/bookreviews/40-2/Davis.pdf) Composition Studies 40(2)
 
 ## PROFESSIONAL DEVELOPMENT
 
@@ -237,5 +237,7 @@ The Conversational Model of Tutoring: Talking As Teaching. Panelist. Georgia Tut
 Historical Development of Improvisation in Writing Center Pedagogy and Practice. Panelist. Southeastern Writing Centers Association Conference. February 2011. Tuscaloosa, AL. Friday, 2:45 Session.
 
 Writing Center Pedagogy in the Classroom: Secondary and Post-Secondary Perspectives on Student Success. Panelist. Southeastern Writing Centers Association Conference. Feburary 2009. Greensboro, NC. Friday, 9:00 Session.
+
+
 
 
