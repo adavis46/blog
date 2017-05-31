@@ -164,39 +164,41 @@ First Arguments: 2nd Edition . 2008. Georgia State University Department of Engl
 **Guest Facilitator,** Mississippi Writing Project Summer Institute 2013-2015. University of Mississippi.
 
 ### Leadership Roles:
-**Committee Co-Chair.** ePortfolio Working Group, University of Mississippi Department of Writing and Rhetoric. Leads the working group as we transition from piloting a new ePortfolio concept to rolling it out department-wide
+**Committee Co-Chair.** ePortfolio Working Group, University of Mississippi Department of Writing and Rhetoric.   
+Leads the working group as we transition from piloting a new ePortfolio concept to rolling it out department-wide
 
-**Committee Chair.** Web Presence Committee, University of Mississippi Department of Writing and Rhetoric.  Advises the administration and faculty about best practices for the department's web presence.
+**Committee Chair.** Web Presence Committee, University of Mississippi Department of Writing and Rhetoric.    
+Advises the administration and faculty about best practices for the department's web presence.
 
-**Teaching Circle Leader.** Online Writing Instructors' Teaching Circle, University of Mississippi Department of Writing and Rhetoric. Leads a professional development group for online teachers.
+**Teaching Circle Leader.** Online Writing Instructors' Teaching Circle, University of Mississippi Department of Writing and Rhetoric.   Leads a professional development group for online teachers.
 
-**Teaching Circle Leader.** Graduate Student Instructors Teaching Circle, University of Mississippi Department of Writing and Rhetoric. Leads a professional development group for graduate instructors teaching first year composition.
+**Teaching Circle Leader.** Graduate Student Instructors Teaching Circle, University of Mississippi Department of Writing and Rhetoric.   Leads a professional development group for graduate instructors teaching first year composition.
 
 ### Committee Memberships
-Committee Member. **Assessment Committee**, University of Mississippi Department of Writing and Rhetoric, July 2013-Present. Plans and implements assessment programs for CWR courses.
+Committee Member. **Assessment Committee**, University of Mississippi Department of Writing and Rhetoric.  
 
-Planning Committee Member. **Southeastern Writing Centers Association (SWCA) 2017 Annual Conference.** December 2015  Present. Assists in the planning and execution of a large regional conference for writing center professionals.
+Planning Committee Member. **Southeastern Writing Centers Association (SWCA) 2017 Annual Conference.**  
 
-Committee Member. **Minor in Professional Writing Committee,** University of Mississippi Department of Writing and Rhetoric, July 2015-Present. Plans the future direction of the minor, creates application materials, promotes the courses, advises our students.
+Committee Member. **Minor in Professional Writing Committee,** University of Mississippi Department of Writing and Rhetoric.  
 
-Committee Member. **Writing 102 Curriculum Committee,** University of Mississippi Department of Writing and Rhetoric, June 2015-Present. Advises the committee about how their work aligns with Writing 250 and our larger ePortfolio program
+Committee Member. **Writing 102 Curriculum Committee,** University of Mississippi Department of Writing and Rhetoric.  
 
-Committee Member. **Writing 250 Curriculum Committee,** University of Mississippi Department of Writing and Rhetoric, September 2011-Present. Works to redesign and deploy revised curriculum for an Advanced Composition course.
+Committee Member. **Writing 250 Curriculum Committee,** University of Mississippi Department of Writing and Rhetoric.  
 
-Planning Committee Member. **Transitioning to College Writing Symposium,** University of Mississippi, August 2011-Present. Plans and develops the annual Transitioning to College Writing Symposium for high school, community college, and 4-year college faculty.
+Planning Committee Member. **Transitioning to College Writing Symposium,** University of Mississippi.  
 
-Committee Member. **Information Literacy Committee,** University of Mississippi, January 2013-June 2015 Promoted information literacy across campus and supports professional development of faculty in all disciplines.
+Committee Member. **Information Literacy Committee,** University of Mississippi.  
 
-Planning Committee Member. **Southeastern Writing Centers Association (SWCA) State-by-State Mini-Regional: Georgia,** October 2009-February 2010. Facilitated design and production of programs and printed material.
+Planning Committee Member. **Southeastern Writing Centers Association (SWCA) State-by-State Mini-Regional: Georgia,**  
 
 ### Other Academic Service
-**Conference Co-Chair.** New Voices International Interdisciplinary Graduate Student Conference 2009. Georgia State University Department of English, July 2008-September 2009. Oversaw general administration of conference logistics, and maintained conference accounting by coordinating with Departmental, University, and External Sponsors.
+**Conference Co-Chair.** New Voices International Interdisciplinary Graduate Student Conference 2009. Georgia State University Department of English
 
-**Treasurer.** Sigma Tau Delta International English Honor Society, Omega Iota Chapter, Georgia State University, 2009-2010.
+**Treasurer.** Sigma Tau Delta International English Honor Society, Omega Iota Chapter, Georgia State University
 
-**Writing Studio Regents Testing Program Liaison.** Georgia State University, 2008-2010
+**Writing Studio Regents Testing Program Liaison.** Georgia State University
 
-**Finance, Budget and Accounting Officer.** New Voices International Interdisciplinary Graduate Student Conference, 2007. Established New Voices Agency account to hold funds between fiscal years
+**Finance, Budget and Accounting Officer.** New Voices International Interdisciplinary Graduate Student Conference.
 
 ## PUBLICATIONS
 Karen Forgette, Chip Dunkin, and Andrew Davis. (2014). [The Multimodal Remix: One Solution to the Double-Audience Dilemma in Service-Learning Composition.](https://bwe.ccny.cuny.edu/Forgette%20et%20al.%20Multimodal%20Remix.html) Basic Writing Online 13(1)
@@ -205,8 +207,8 @@ Andrew Davis. (2012). [Review of Remixing Composition: A History Of Multimodal W
 
 ## PROFESSIONAL DEVELOPMENT
 
-Digital Media and Composition Institute. Ohio State University. Columbus, OH. June 2012. Attended
-Kent State University Assessment Symposium: Kent State University. Kent, OH. July 2013. Attended.
+Digital Media and Composition Institute. Ohio State University. Columbus, OH.
+Kent State University Assessment Symposium: Kent State University. Kent, OH. 
 
 ## CONFERENCE PRESENTATIONS
 
