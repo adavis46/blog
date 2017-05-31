@@ -151,22 +151,13 @@ First Arguments: 2nd Edition . 2008. Georgia State University Department of Engl
 - Participated in regular editorial board meetings and met set publisher deadlines.
 
 ## DOCUMENT AND WEB DESIGN PROJECTS
-Designer and Developer. W&R Document Library and File Archive.
-Web Content Manager, Independent Writing Departments and Programs Association(IWDPA).
-Web Content Manager, Department of Writing and Rhetoric Website.
-- Oversaw transition of the site to WordPress CMS
-- Maintain site content areas for faculty, administrators, and students.
-
-Web Content Manager, Transitioning to College Writing Symposium.
-Webmaster, The Writing Studio at Georgia State.
-- Oversaw transition of the site to RedDot CMS platform
-- Integrated Write/Chat interface more closely to main homepage
-
-Document Designer, The Writing Studio at Georgia State
-- Designed flyers and handouts for incoming students.
-- Designed signage for Writing Studio front door
-
-Webmaster, Graduate English Association
+- Designer and Developer. W&R Document Library and File Archive.
+- Web Content Manager, Independent Writing Departments and Programs Association(IWDPA).
+- Web Content Manager, Department of Writing and Rhetoric Website.
+- Web Content Manager, Transitioning to College Writing Symposium.
+- Webmaster, The Writing Studio at Georgia State.
+- Document Designer, The Writing Studio at Georgia State
+- Webmaster, Graduate English Association
 
 ## ACADEMIC SERVICE
 ### Invited Talks
