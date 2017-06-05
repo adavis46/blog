@@ -7,10 +7,12 @@ tags: cv
 [Download](images/DavisA-CV_2017.odt) my C.V. in a printable format. 
 
 ## EDUCATION
-
-* Completed Coursework for Ph.D. in English. Georgia State University, 2011
+### Degrees Attained 
 * M.A. in English. Georgia State University, 2010
-* B.A. in English. History Minor. Georgia State University, 2006
+* B.A. in English. Georgia State University, 2006
+
+### Additional Graduate Coursework
+* Ph.D in Rhetoric and Composition, Georgia State University. (Completed coursework requirements) 
 
 ## CURRENT POSITION
 
